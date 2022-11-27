@@ -40,7 +40,7 @@ export const Share = () => {
         container: "#kakao-link-btn",
         objectType: "feed",
         content: {
-          title: "정신연령을 알려주는 색상 테스트",
+          title: "정신연령을 알려주는 색상 테스트 - F5 Games",
           description: "정신연령을 알려주는 색상 테스트를 해보세요.",
           imageUrl:
             "https://f5game.s3.ap-northeast-2.amazonaws.com/color-age.png",
